@@ -138,11 +138,8 @@ conn.close()
 
 ### 🎥 Démonstration Vidéo
 
-[![Voir la vidéo]](https://drive.google.com/file/d/1K7v64KhIAHksUdIjpBsi3Ub7jHBQfBVc/view?usp=drive_link)
+[![Démonstration](https://tenor.com/gMJhvwutN6A.gif)](https://drive.google.com/file/d/1K7v64KhIAHksUdIjpBsi3Ub7jHBQfBVc/view?usp=drive_link)
 
-### 🌀 Aperçu GIF
-
-![Demo GIF](https://media.tenor.com/PL2T6D_9P1IAAAAd/dragonair-pokemon.gif)
 
 
 
