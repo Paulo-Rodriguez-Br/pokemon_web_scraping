@@ -26,7 +26,7 @@ large.
 ✔ Construction progressive d'un DataFrame maître\
 ✔ Export direct dans **Oracle Database**\
 ✔ Code conforme aux standards **PEP-8, PEP-257, type hinting**\
-✔ Architecture claire et maintenable en Python OO
+✔ Architecture claire et maintenable en Python OOP
 
 ------------------------------------------------------------------------
 
@@ -135,6 +135,11 @@ conn.close()
 -   Dashboard (Power BI, Grafana)
 
 ------------------------------------------------------------------------
+
+### 🎥 Aperçu Vidéo
+
+[![Voir la vidéo](https://drive.google.com/file/d/1rHgrm2t6Bh9JIRoh4rgCp6d4cfUl4k-T/view?usp=sharing)
+
 
 ## 👤 Auteur
 
