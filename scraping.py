@@ -193,17 +193,19 @@ if __name__ == "__main__":
     
     instancia = PokemonScraping(url_path="https://pokemondb.net/pokedex/national")
     instancia.run_scraping()
-    
+
+    # Your connection data here
     connection = {
-        "user": "paulorodriguez",
-        "password": "Se@23111979",
-        "host": "localhost",
-        "port": 1521,
-        "service": "XEPDB1",
+        "user": "",
+        "password": "",
+        "host": "",
+        "port": ,
+        "service": "",
         "table_name": "master_pokemon"
     }
     
     instancia.save_dataframe_to_oracle(connection)
+
 
 
 
