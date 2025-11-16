@@ -44,7 +44,7 @@ large.
 
 À partir de la Pokédex Nationale.
 
-### 2. Pour chaque Pokémon, extraction de :
+### 2. Pour chaque Pokémon, extraction d'informations telles que:
 
 -   Nom\
 -   Caractéristiques de base\
