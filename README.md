@@ -138,7 +138,7 @@ conn.close()
 
 ### 🎥 Démonstration Vidéo
 
-[![Démonstration](https://tenor.com/gMJhvwutN6A.gif)](https://drive.google.com/file/d/1K7v64KhIAHksUdIjpBsi3Ub7jHBQfBVc/view?usp=drive_link)
+[![Démonstration]([https://tenor.com/gMJhvwutN6A.gif](https://tenor.com/fr/view/dragonair-pokemon-pokemon-showdown-dark-dynasty-dragonairs-underused-gif-5557873252225849194))](https://drive.google.com/file/d/1K7v64KhIAHksUdIjpBsi3Ub7jHBQfBVc/view?usp=drive_link)
 
 
 
