@@ -1,0 +1,5 @@
+beautifulsoup4
+requests
+pandas
+sqlalchemy
+oracledb
