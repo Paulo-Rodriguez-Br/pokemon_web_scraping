@@ -103,17 +103,6 @@ conn = oracledb.connect(
 print("Connecté !")
 conn.close()
 ```
-
-------------------------------------------------------------------------
-
-## 📊 Exemple de Données
-
-  Pokémon     Taille   Poids     Espèce
-  ----------- -------- --------- -------------------
-  Charizard   1.7 m    90.5 kg   Flame Pokémon
-  Blastoise   1.6 m    85.5 kg   Shellfish Pokémon
-  Venusaur    2.0 m    100 kg    Seed Pokémon
-
 ------------------------------------------------------------------------
 
 ## 📚 Ce que ce projet permet de découvrir
@@ -138,7 +127,7 @@ conn.close()
 
 ### 🎥 Démonstration Vidéo
 
-[![Démonstration](https://tenor.com/p90BYzdn4hk.gif)](https://drive.google.com/file/d/1K7v64KhIAHksUdIjpBsi3Ub7jHBQfBVc/view?usp=drive_link)
+[Cliquez ici](https://drive.google.com/file/d/1K7v64KhIAHksUdIjpBsi3Ub7jHBQfBVc/view?usp=drive_link)
 
 
 
