@@ -30,20 +30,6 @@ large.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Technologies Utilisées
-
-  Technologie          Rôle
-  -------------------- -----------------------------
-  **Python 3.10+**     Langage principal
-  **Requests**         Requêtes HTTP
-  **BeautifulSoup4**   Scraping HTML
-  **Pandas**           Traitement des données
-  **SQLAlchemy**       Moteur SQL
-  **oracledb**         Driver officiel Oracle
-  **Dataclasses**      Organisation orientée objet
-
-------------------------------------------------------------------------
-
 ## 📦 Structure du Projet
 
     ├── scraping.py          # Classe principale PokemonScraping
