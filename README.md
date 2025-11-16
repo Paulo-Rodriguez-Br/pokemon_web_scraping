@@ -138,7 +138,7 @@ conn.close()
 
 ### 🎥 Démonstration Vidéo
 
-[![Voir la vidéo](https://img.icons8.com/?size=512&id=59833&format=png)](https://drive.google.com/file/d/1K7v64KhIAHksUdIjpBsi3Ub7jHBQfBVc/view?usp=drive_link)
+[![Voir la vidéo]](https://drive.google.com/file/d/1K7v64KhIAHksUdIjpBsi3Ub7jHBQfBVc/view?usp=drive_link)
 
 ### 🌀 Aperçu GIF
 
