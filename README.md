@@ -116,7 +116,7 @@ conn.close()
 
 ------------------------------------------------------------------------
 
-## 📚 Ce que ce projet m'a appris
+## 📚 Ce que ce projet permet de découvrir
 
 -   Structurer un scraper de manière scalable\
 -   Extraire dynamiquement plusieurs tables HTML\
